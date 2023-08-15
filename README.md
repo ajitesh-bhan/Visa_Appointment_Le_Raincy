@@ -1,7 +1,7 @@
 # Visa_Appointment_Le_Raincy
-Automates the process of opening browser  and to check if the prefecture website has updated new appointments.
+Automates the process of opening the browser  and to check if the prefecture website has updated with new appointments.
 
-#to Run
-git clone https://github.com/ajitesh-bhan/Visa_Appointment_Le_Raincy.git
-pip install -r requirements.txt
-python main.py
+# To Run
+git clone https://github.com/ajitesh-bhan/Visa_Appointment_Le_Raincy.git <br />
+pip install -r requirements.txt <br />
+python main.py <br />
